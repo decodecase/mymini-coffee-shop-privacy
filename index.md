@@ -2,7 +2,7 @@
 
 _Last updated: 8 October 2026_
 
-My Mini Coffee Shop ("the game") is a virtual reality game for Meta Quest headsets, made by [] ("we", "us")OKAN CETINKAYA. This policy explains what happens to your information when you play the game, including the beta version.
+My Mini Coffee Shop ("the game") is a virtual reality game for Meta Quest headsets, made by DecodeCase (Okan Çetinkaya). This policy explains what happens to your information when you play the game, including the beta version.
 
 **In short: the game does not collect, sell or share your personal information. Your cafés and settings stay on your headset.**
 
